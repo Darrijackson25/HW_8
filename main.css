@@ -1,0 +1,31 @@
+body {
+  background-color: lightpink;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: purple;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+
+btn {
+    background-color: white;
+    color: aqua;
+    border: 2px solid pink;
+}
+
+input {
+    border: none;
+    border-bottom:4px solid hotpink;
+}
